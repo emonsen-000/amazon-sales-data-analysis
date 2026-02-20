@@ -18,7 +18,22 @@ This project performs an exploratory data analysis (EDA) on an Amazon sales data
 
 - Visualize key business metrics clearly
 
-    
+## Project Structure
+
+```text
+amazon-sales-data-analysis/
+│
+├── Amazon.csv
+├── New Data after analysis.csv
+├── analysis.py
+├── README.md
+└── outputs/
+    ├── Monthly_revenue.png
+    ├── most_used_payment_method.png
+    ├── orders_from_countries.png
+    ├── orders_in_U.S..png
+    └── Top_Category_and_Top_Brand_in_Electronics.png
+```   
 # Tools & Libraries Used
 
 * Python
