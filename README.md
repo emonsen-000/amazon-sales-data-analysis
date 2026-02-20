@@ -115,7 +115,7 @@ The project contains 5 focused and business-relevant visualizations, including:
 - Monthly revenue trend (line chart)
 
 - Top Category and Top brand in Electronics Category
-- 
+ 
 - Most used payment method
 
 - Country-wise order distribution
